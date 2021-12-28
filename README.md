@@ -1,4 +1,4 @@
-# RabbleWabble (Made by Ray wenderlich)
+# RabbleWabble (Made by Ray Wenderlich)
 
 MVC Design pattern tutorial 
 
